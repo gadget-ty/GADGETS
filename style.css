@@ -161,12 +161,7 @@ a {
     border-radius: 2px;
 }
 
-.ADS{
-    WIDTH:200PX;
-    MAX-WIDTH:300PX;
-    DISPLAY:INLINE-BLOCK;
-    CLEAR:BOTH;
-}
+
 @media (max-width: 768px) {
     .nav-links {
         display: none;
@@ -347,4 +342,5 @@ a {
     color: var(--accent-primary);
 
 }
+
 
