@@ -162,8 +162,8 @@ a {
 }
 
 .ADS{
-    WIDTH:50PX;
-    MAX-WIDTH:100PX;
+    WIDTH:200PX;
+    MAX-WIDTH:300PX;
     DISPLAY:INLINE-BLOCK;
     CLEAR:BOTH;
 }
@@ -347,3 +347,4 @@ a {
     color: var(--accent-primary);
 
 }
+
